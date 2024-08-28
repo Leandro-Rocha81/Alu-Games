@@ -23,11 +23,10 @@ Este é um projeto de um sistema de aluguel de jogos de tabuleiro. O usuário po
 
 1. Clone o repositório para sua máquina local.
 
-    ```bash
-    git clone (https://github.com/Leandro-Rocha81/Alu-Games.git)
-    ```
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Leandro-Rocha81/Alu-Games.git)
 
-2. Abra o arquivo `https://alu-games-eight.vercel.app/#` no navegador.
+
+2. Abra o arquivo (https://alu-games-eight.vercel.app/#) no navegador.
 3. Interaja com os botões de "Alugar" e "Devolver" para simular o sistema de aluguel.
 4. Utilize o botão "Reiniciar" para resetar as interações e começar novamente.
 
